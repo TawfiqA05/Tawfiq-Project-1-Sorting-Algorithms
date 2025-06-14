@@ -2,6 +2,7 @@
 
 **Name:** Tawfiq Abulail  
 **Class:** CSCI-C310 Data Structures
+
 **Project Goal:** Test and compare different sorting algorithms to see which ones are fastest.
 
 ---
